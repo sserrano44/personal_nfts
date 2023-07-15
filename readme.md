@@ -20,7 +20,7 @@ To set up personal_nfts, follow these steps:
 
 1. Clone the repository:
     ```
-    git clone https://github.com/user/personal_nfts.git
+    git clone https://github.com/sserrano44/personal_nfts.git
     ```
 2. Install the dependencies:
     ```
